@@ -1,6 +1,6 @@
 //THIS
 
-const person = {
+const user2 = {
     name: 'Diego',
     lastName: 'Perez',
     fullName(){
@@ -9,10 +9,10 @@ const person = {
 };
 
 //devuelve las propiedade
-console.log(Object.keys(person));
+console.log(Object.keys(user2));
 
 //devuelve los valores
-console.log(Object.values(person));
+console.log(Object.values(user2));
 
 //devuelve propiedad : valor 
-console.log(Object.entries(person));
+console.log(Object.entries(user2));
