@@ -19,7 +19,7 @@
 
 8. `unir objetos:` es el proceso de combinar las propiedades de dos o más objetos en uno solo.
 
-9. `palabra reservada this en objeto literal:`  Se usa para acceder a las propiedades y métodos del objeto desde dentro de sus métodos.
+9. `this:`  Se usa para acceder a las propiedades y métodos del objeto desde dentro de sus métodos.
 
 10. `recorrer:` Es significa iterar sobre sus propiedades y valores. Se puede hacer utilizando bucles como for...in, y métodos como Object.keys(), Object.values(), y Object.entries().
 
